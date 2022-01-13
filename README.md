@@ -7,7 +7,7 @@ wget komutunu değişik parametrelerle çalıştıran shell scriptine zenity kul
 
 # Kurulum
 ## Github Üzerinden Kurulum
-<img src="images/kurulum.png">
+<img src="Images/kullanım.png">
 Resimdeki adımları takip ederek kodu zip olarak indirin.
 Zipten çıkarın.
 Zipten çıkarılmış klasörde terminali açınız.
@@ -38,22 +38,22 @@ bash system.sh komutunu çalıştırınız.
 - uname -a parametresi; bilgisayarınızın donanım adının tamamını yazdırır.
 
 ## lscpu Parametresi
-<img src="images/Screenshot_4.png" >
+<img src="Images/Screenshot_4.png" >
 
 - lscpu parametresi; CPU ve işlemci üniteleri hakkında detaylı bilgi verir.
 
 ## lspci Parametresi
-<img src="images/Screenshot_5.png" >
+<img src="Images/Screenshot_5.png" >
 
 - lspci parametresi; tüm pci veriyollarını ve bunlara bağlı cihazlarla ilgili ayrıntıları listeler.
 
 ## lsscsi Parametresi
-<img src="images/Screenshot_6.png" >
+<img src="Images/Screenshot_6.png" >
 
 - lsscsi parametresi; sabit sürücüler ve optik sürücüler gibi scsi/sata aygıtlarını listeler.
 
 ## mount | column -t Parametresi
-<img src="images/Screenshot_7.png" >
+<img src="Images/Screenshot_7.png" >
 
 - mount | column -t parametresi; takılı dosya sistemlerini takmak/bağını kaldırmak ve görüntülemek için kullanılır. 
 
